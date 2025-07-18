@@ -1,2 +1,2 @@
-# xterial-C-
+# xterial-Csharp
 counter-strike 2 open source glow esp coded in C#
