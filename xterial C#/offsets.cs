@@ -1,5 +1,6 @@
 ﻿public static class Offsets
 {
+     // Please note that these change almost every game update. If you cant change them dont bother using xterialcs2
     public static int dwLocalPlayerPawn = 0x18590D0;
     public static int dwEntityList = 0x1A05670;
 
@@ -13,3 +14,4 @@
     public static int m_bGlowing = 0x51;
 
 }
+
